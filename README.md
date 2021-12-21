@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Well hello there! I'm Sebastian aka Slotheswift! 👋
+- 🔭 I’m currently working on multiple school projects.
+- 🌱 I’m currently learning a whole lot!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastian-anderot)
+
 
 <!--
 **Sloththeswift/Sloththeswift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
