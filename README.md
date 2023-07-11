@@ -1,6 +1,5 @@
 #### Well hello there! I'm Sebastian aka Sloththeswift! 👋
-- 🔭 I’m currently working on multiple school projects.
-- 🌱 I’m currently learning a whole lot!
+🌱 I’m currently learning a whole lot!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastian-anderot)
 
 
